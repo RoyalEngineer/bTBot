@@ -74,7 +74,7 @@
       timeGuard: true,
       maximumSongLength: 8,
       autodisable: true,
-      commandCooldown: 30,
+      commandCooldown: 10,
       usercommandsEnabled: true,
       skipPosition: 3,
       skipReasons: [
@@ -99,7 +99,6 @@
       themeLink: null,
       fbLink: "https://www.facebook.com/bttdm.samp",
       youtubeLink: null,
-	  forum: "http://forum.bttdm.com",
       website: "http://bttdm.com",
       intervalMessages: [],
       messageInterval: 5,
